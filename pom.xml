@@ -21,7 +21,7 @@
         <!-- Dependencies versions -->
         <kafka.version>2.4.0</kafka.version>
         <junit.jupiter.version>5.6.0</junit.jupiter.version>
-        <log4j.version>2.13.0</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <assertj.version>3.14.0</assertj.version>
         <curator.version>2.12.0</curator.version>
     </properties>
